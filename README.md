@@ -1,4 +1,6 @@
 # Own-Metroidvania-Game
+You can shoot (LMB) the mobs, dash (RMB)
+Some skills like dash, transforming ball,
 An Metroidvania Game copy like this game (Super Metroid) but it is a shopee edition :)))))
 ![image](https://github.com/nhd3009/Metroidvania-Game/assets/90162574/d7f57f53-a0e2-4a7b-b0f2-ef721ba10ff8)
 Ingame:
@@ -12,4 +14,4 @@ Ingame:
 #Boss fight
 ![image](https://github.com/nhd3009/Metroidvania-Game/assets/90162574/57d8fea4-16b0-4d7c-93e3-3abb71f7f2b7)
 
-Some skills like dash, transforming ball,...
+
